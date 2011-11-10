@@ -1,8 +1,10 @@
 (package
- (version v0.0.1)
+ (version v0.0.2)
  (maintainer "Per Eckerdal <per dot eckerdal at gmail dot com>")
  (author "Several")
  (homepage "http://github.com/pereckerdal/srfi")
  (description "A collection of SRFI implementations")
  (keywords srfi util)
- (license various))
+ (license various)
+
+ (source-directory "src"))
